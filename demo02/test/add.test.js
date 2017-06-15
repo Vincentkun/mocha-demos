@@ -15,5 +15,5 @@ describe('加法函数的测试', function () {
   it('任何数乘以0应该等于0', function () {
     expect(mul(3, 0)).to.be.equal(0);
   });
-  
+
 });
